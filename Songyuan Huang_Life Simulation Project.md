@@ -1,4 +1,5 @@
-<b>Life Simulation</b>
+<h1>Life Simulation</h1>
+<br/>
 
 <b>Project Abstract:</b>
 <p>&nbsp;&nbsp; This life simulation project is basically a casual text based game in which players are only required to click the next button to continue the game. The game will randomly generate events and status for players for their gameplay story. As players will encounter different events and have different statuses will lead players to different endings.<p>
@@ -19,6 +20,13 @@
 </br>
 
 <b>Background: </b>
+
+<p><i>&nbsp;&nbsp; A URL reference to the project. Add text on how to build and run successfully.</i></p>
+
+<b>&nbsp;&nbsp; Building</b>
+
+<b>&nbsp;&nbsp; Running</b>
+
 
 </br>
 
