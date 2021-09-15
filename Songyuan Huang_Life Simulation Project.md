@@ -3,6 +3,8 @@
 <b>Project Abstract:</b>
 <p>This life simulation project is basically a casual text based game in which players are only required to click the next button to continue the game. The game will randomly generate events and status for players for their gameplay story. As players will encounter different events and have different statuses will lead players to different endings.<p>
   
+ ![](https://raw.githubusercontent.com/Shuang71671/Individual-Subject-Proposal-/main/Songyuan%20Huang_Life%20Simulation%20Project.png)
+  
 </br>
 
 <b>Project Relevance: </b>
