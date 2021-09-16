@@ -22,16 +22,19 @@
 <b>Background: </b>
 
 <p><i>&nbsp;&nbsp; A URL reference to the project. Add text on how to build and run successfully.</i></p>
+<p>&nbsp;&nbsp; https://play.google.com/store/apps/details?id=com.candywriter.bitlife </p>
+<br/>
 
 <b>&nbsp;&nbsp; Building</b>
+<p>&nbsp;&nbsp;  This project is to build with either Python or Java and use Excel spreadsheets as a database to get access to info. The project is to build a game that is similar to the provided link, and it uses that as a blueprint. The game will be more simple than the game from the provided link, if time permits then more features will be added to the project. </p>
 
 <b>&nbsp;&nbsp; Running</b>
-
+<p>&nbsp;&nbsp; As long as the game won’t have major errors that appear, for example, crush the game or freeze the game, and the game is able to access the database and get info from it, then the game is halfway from success. When the game is running smoothly as the original game plan with either Python or Java, then the game is successfully running.</p>
 
 </br>
 
 <b>Required Resources: </b>
 <ul>
-  <li>Python</li>
+  <li>Python or Java</li>
   <li>Excel spreadsheet</li>
 </ul>
